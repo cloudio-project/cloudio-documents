@@ -1,0 +1,20 @@
+apply plugin: 'java'
+apply plugin: 'application'
+
+mainClassName = "ch.hevs.cloudio.example.iobox.IoBoxExample"
+
+repositories {
+    mavenLocal()
+    jcenter()
+}
+
+dependencies {
+    compile 'ch.hevs.cloudio:cloudio-endpoint-java:0.1.1'
+}
+
+task copyCertificates(type: Copy) {
+    from '../cloudio-mongo-influx/certificates/ca-cert.jks', '../cloudio-mongo-influx/certificates/Clients/test_client.p12'
+    into 'src/main/resources/cloud.io'
+}
+
+jar.dependsOn copyCertificates

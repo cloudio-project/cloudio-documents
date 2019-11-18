@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ch.hevs.cloudio:cloudio-endpoint-java:0.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.hevs.cloudio/cloudio-endpoint-java/0.1.1/a78a013d22d94ad7f99462a8a07a31c36be95729/cloudio-endpoint-java-0.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.hevs.cloudio/cloudio-endpoint-java/0.1.1/c472c531929c36f3f999bd19dac8a21db5a28a59/cloudio-endpoint-java-0.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
