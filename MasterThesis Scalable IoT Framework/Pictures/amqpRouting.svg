@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1413"
+   height="581"
+   overflow="hidden"
+   version="1.1"
+   id="svg117"
+   sodipodi:docname="amqpRouting.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata121">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview119"
+     showgrid="false"
+     inkscape:zoom="0.60251703"
+     inkscape:cx="837.06027"
+     inkscape:cy="40.147312"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg117" />
+  <defs
+     id="defs5">
+    <clipPath
+       id="clip0">
+      <path
+         d="M2358 1417 3771 1417 3771 1998 2358 1998Z"
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+  </defs>
+  <text
+     style="font-weight:normal;font-size:40px;font-family:'Gill Sans Std';fill:#2aa9dc;-inkscape-font-specification:'Gill Sans Std, Normal';font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     id="text9"
+     font-size="27"
+     font-weight="300"
+     x="425.31"
+     y="158">Exchanges<tspan
+   style="fill:#d54983;-inkscape-font-specification:'Gill Sans Std, Normal';font-family:'Gill Sans Std';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:40px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+   id="tspan7"
+   y="268"
+   x="850.258">Queues</tspan>
+</text>
+  <path
+     style="fill:#2aa9dc;fill-rule:evenodd"
+     inkscape:connector-curvature="0"
+     id="path11"
+     d="M 412,285.5 C 412,267 441.77,252 478.5,252 515.23,252 545,267 545,285.5 545,304 515.23,319 478.5,319 441.77,319 412,304 412,285.5 Z" />
+  <text
+     style="font-weight:normal;font-size:40px;font-family:'Gill Sans Std';fill:#ffffff;-inkscape-font-specification:'Gill Sans Std, Normal';font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     id="text13"
+     font-size="29"
+     font-weight="300"
+     x="468.56"
+     y="295">X</text>
+  <rect
+     style="fill:#d54983"
+     id="rect15"
+     height="40"
+     width="168"
+     y="286"
+     x="811" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ebebeb;stroke-width:3"
+     inkscape:connector-curvature="0"
+     id="path17"
+     d="m 831.5,327.5 1,-42" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ebebeb;stroke-width:3"
+     inkscape:connector-curvature="0"
+     id="path19"
+     d="m 852.5,327.5 1,-42" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ebebeb;stroke-width:3"
+     inkscape:connector-curvature="0"
+     id="path21"
+     d="m 874.5,327.5 1,-42" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ebebeb;stroke-width:3"
+     inkscape:connector-curvature="0"
+     id="path23"
+     d="m 895.5,327.5 1,-42" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ebebeb;stroke-width:3"
+     inkscape:connector-curvature="0"
+     id="path25"
+     d="m 917.5,327.5 1,-42" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ebebeb;stroke-width:3"
+     inkscape:connector-curvature="0"
+     id="path27"
+     d="m 938.5,327.5 1,-42" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ebebeb;stroke-width:3"
+     inkscape:connector-curvature="0"
+     id="path29"
+     d="m 960.5,327.5 1,-42" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#414141;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:3, 6"
+     inkscape:connector-curvature="0"
+     id="path31"
+     stroke-miterlimit="10"
+     d="M 226.5,64.56 C 226.5,30.29 254.29,2.5 288.56,2.5 h 789.88 c 34.27,0 62.06,27.79 62.06,62.06 v 452.88 c 0,34.27 -27.79,62.06 -62.06,62.06 H 288.56 c -34.27,0 -62.06,-27.79 -62.06,-62.06 z" />
+  <text
+     style="font-weight:normal;font-size:40px;font-family:'Gill Sans Std';-inkscape-font-specification:'Gill Sans Std, Normal';font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     id="text35"
+     font-size="43"
+     font-weight="300"
+     x="265.39999"
+     y="58">
+    <tspan
+       style="-inkscape-font-specification:'Gill Sans Std, Normal';font-family:'Gill Sans Std';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:42.66666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal"
+       id="tspan996">Message Broker</tspan>
+    <tspan
+       style="font-size:32px;-inkscape-font-specification:'Gill Sans Std, Normal';font-family:'Gill Sans Std';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal"
+       id="tspan33"
+       y="304"
+       x="652.57404"
+       font-size="32">route</tspan>
+  </text>
+  <path
+     style="fill:#2aa9dc;fill-rule:evenodd"
+     inkscape:connector-curvature="0"
+     id="path37"
+     d="M 412,359.5 C 412,341 441.77,326 478.5,326 515.23,326 545,341 545,359.5 545,378 515.23,393 478.5,393 441.77,393 412,378 412,359.5 Z" />
+  <text
+     style="font-weight:normal;font-size:40px;font-family:'Gill Sans Std';fill:#ffffff;-inkscape-font-specification:'Gill Sans Std, Normal';font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     id="text39"
+     font-size="29"
+     font-weight="300"
+     x="468.56"
+     y="369">X</text>
+  <path
+     style="fill:#2aa9dc;fill-rule:evenodd"
+     inkscape:connector-curvature="0"
+     id="path41"
+     d="M 412,434.5 C 412,416 441.77,401 478.5,401 515.23,401 545,416 545,434.5 545,453 515.23,468 478.5,468 441.77,468 412,453 412,434.5 Z" />
+  <text
+     style="font-weight:normal;font-size:40px;font-family:'Gill Sans Std';fill:#ffffff;-inkscape-font-specification:'Gill Sans Std, Normal';font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     id="text43"
+     font-size="29"
+     font-weight="300"
+     x="468.56"
+     y="444">X</text>
+  <path
+     style="fill:#2aa9dc;fill-rule:evenodd"
+     inkscape:connector-curvature="0"
+     id="path45"
+     d="M 412,210.5 C 412,192 441.77,177 478.5,177 515.23,177 545,192 545,210.5 545,229 515.23,244 478.5,244 441.77,244 412,229 412,210.5 Z" />
+  <text
+     style="font-weight:normal;font-size:40px;font-family:'Gill Sans Std';fill:#ffffff;-inkscape-font-specification:'Gill Sans Std, Normal';font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     id="text47"
+     font-size="29"
+     font-weight="300"
+     x="468.56"
+     y="220">X</text>
+  <rect
+     style="fill:#d54983"
+     id="rect49"
+     height="41"
+     width="168"
+     y="339"
+     x="811" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ebebeb;stroke-width:3"
+     inkscape:connector-curvature="0"
+     id="path51"
+     d="m 831.5,380.5 1,-41" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ebebeb;stroke-width:3"
+     inkscape:connector-curvature="0"
+     id="path53"
+     d="m 852.5,380.5 1,-41" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ebebeb;stroke-width:3"
+     inkscape:connector-curvature="0"
+     id="path55"
+     d="m 874.5,380.5 1,-41" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ebebeb;stroke-width:3"
+     inkscape:connector-curvature="0"
+     id="path57"
+     d="m 895.5,380.5 1,-41" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ebebeb;stroke-width:3"
+     inkscape:connector-curvature="0"
+     id="path59"
+     d="m 917.5,380.5 1,-41" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ebebeb;stroke-width:3"
+     inkscape:connector-curvature="0"
+     id="path61"
+     d="m 938.5,380.5 1,-41" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ebebeb;stroke-width:3"
+     inkscape:connector-curvature="0"
+     id="path63"
+     d="m 960.5,380.5 1,-41" />
+  <rect
+     style="fill:#d54983"
+     id="rect65"
+     height="41"
+     width="168"
+     y="393"
+     x="811" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ebebeb;stroke-width:3"
+     inkscape:connector-curvature="0"
+     id="path67"
+     d="m 831.5,434.5 1,-41" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ebebeb;stroke-width:3"
+     inkscape:connector-curvature="0"
+     id="path69"
+     d="m 852.5,434.5 1,-41" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ebebeb;stroke-width:3"
+     inkscape:connector-curvature="0"
+     id="path71"
+     d="m 874.5,434.5 1,-41" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ebebeb;stroke-width:3"
+     inkscape:connector-curvature="0"
+     id="path73"
+     d="m 895.5,434.5 1,-41" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ebebeb;stroke-width:3"
+     inkscape:connector-curvature="0"
+     id="path75"
+     d="m 917.5,434.5 1,-41" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ebebeb;stroke-width:3"
+     inkscape:connector-curvature="0"
+     id="path77"
+     d="m 938.5,434.5 1,-41" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ebebeb;stroke-width:3"
+     inkscape:connector-curvature="0"
+     id="path79"
+     d="m 960.5,434.5 1,-41" />
+  <rect
+     style="fill:#d54983"
+     id="rect81"
+     height="40"
+     width="168"
+     y="447"
+     x="811" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ebebeb;stroke-width:3"
+     inkscape:connector-curvature="0"
+     id="path83"
+     d="m 831.5,488.5 1,-42" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ebebeb;stroke-width:3"
+     inkscape:connector-curvature="0"
+     id="path85"
+     d="m 852.5,488.5 1,-42" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ebebeb;stroke-width:3"
+     inkscape:connector-curvature="0"
+     id="path87"
+     d="m 874.5,488.5 1,-42" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ebebeb;stroke-width:3"
+     inkscape:connector-curvature="0"
+     id="path89"
+     d="m 895.5,488.5 1,-42" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ebebeb;stroke-width:3"
+     inkscape:connector-curvature="0"
+     id="path91"
+     d="m 917.5,488.5 1,-42" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ebebeb;stroke-width:3"
+     inkscape:connector-curvature="0"
+     id="path93"
+     d="m 938.5,488.5 1,-42" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ebebeb;stroke-width:3"
+     inkscape:connector-curvature="0"
+     id="path95"
+     d="m 960.5,488.5 1,-42" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#2aa9dc;stroke-width:3"
+     inkscape:connector-curvature="0"
+     id="path97"
+     d="m 1.5,285.5 c 0,-51.91 42.31,-94 94.5,-94 52.19,0 94.5,42.09 94.5,94 0,51.91 -42.31,94 -94.5,94 -52.19,0 -94.5,-42.09 -94.5,-94 z" />
+  <text
+     style="font-weight:normal;font-size:40px;font-family:'Gill Sans Std';-inkscape-font-specification:'Gill Sans Std, Normal';font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     id="text99"
+     font-size="32"
+     font-weight="300"
+     x="38.119999"
+     y="296">
+    <tspan
+       style="-inkscape-font-specification:'Gill Sans Std, Normal';font-family:'Gill Sans Std';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:32px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal"
+       id="tspan1000">Producer</tspan>
+  </text>
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#2aa9dc;stroke-width:3"
+     inkscape:connector-curvature="0"
+     id="path101"
+     d="m 1203.5,413.5 c 0,-57.44 46.56,-104 104,-104 57.44,0 104,46.56 104,104 0,57.44 -46.56,104 -104,104 -57.44,0 -104,-46.56 -104,-104 z" />
+  <text
+     style="font-weight:normal;font-size:40px;font-family:'Gill Sans Std';-inkscape-font-specification:'Gill Sans Std, Normal';font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     id="text103"
+     font-size="32"
+     font-weight="300"
+     x="1241.59"
+     y="424">
+    <tspan
+       style="-inkscape-font-specification:'Gill Sans Std, Normal';font-family:'Gill Sans Std';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:32px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal"
+       id="tspan990">Consumer</tspan>
+  </text>
+  <path
+     style="fill:#484d4b"
+     inkscape:connector-curvature="0"
+     id="path105"
+     d="m 545.55,284 12.04,0.38 12.02,1.07 11.84,1.76 11.58,2.33 11.14,2.96 10.71,3.4 10.14,3.97 9.46,4.35 8.72,4.74 7.92,5.06 6.92,5.4 5.94,5.62 4.81,5.91 3.64,6.09 2.21,6.19 0.6,3.21 0.19,3.09 0.19,3 -0.03,-0.21 0.63,3 -0.04,-0.14 0.94,3 -0.07,-0.19 1.37,2.94 -0.09,-0.16 3.69,5.87 -0.14,-0.19 5,5.75 -0.14,-0.14 6.25,5.5 -0.11,-0.09 7.37,5.31 -0.1,-0.07 8.31,5 -0.1,-0.05 9.31,4.69 -0.08,-0.04 10.06,4.31 -0.08,-0.03 10.75,3.87 -0.08,-0.02 11.37,3.37 -0.06,-0.02 11.93,2.94 -0.08,-0.02 12.25,2.32 -0.07,-0.02 12.63,1.75 h -0.09 l 12.82,1.06 -0.08,-0.01 5.37,0.16 -0.08,3 -5.42,-0.16 -12.9,-1.07 -12.7,-1.76 -12.32,-2.33 -12.02,-2.95 -11.45,-3.4 -10.83,-3.9 -10.14,-4.35 -9.41,-4.74 -8.41,-5.06 -7.49,-5.39 -6.38,-5.61 -5.14,-5.92 -3.8,-6.05 -1.45,-3.11 -0.99,-3.17 -0.67,-3.17 -0.19,-3.11 -0.19,-3 0.03,0.18 -0.57,-3 0.07,0.23 -2.13,-5.94 0.12,0.27 -3.5,-5.88 0.13,0.18 -4.69,-5.75 0.13,0.14 -5.81,-5.5 0.11,0.1 -6.81,-5.32 0.11,0.08 -7.81,-5 0.09,0.06 -8.62,-4.69 0.09,0.05 -9.38,-4.32 0.08,0.04 -10.06,-3.94 0.09,0.03 -10.62,-3.37 0.06,0.02 -11.06,-2.94 0.09,0.02 -11.5,-2.31 0.08,0.01 -11.75,-1.75 0.08,0.01 -11.93,-1.06 h 0.08 l -12,-0.37 z m 257.27,124.93 8.87,4.76 -9.13,4.23 z" />
+  <path
+     style="fill:#484d4b"
+     inkscape:connector-curvature="0"
+     id="path107"
+     d="m 190.5,284 h 214.13 v 3 H 190.5 Z m 212.63,-3 9,4.5 -9,4.5 z" />
+  <text
+     style="font-weight:normal;font-size:40px;font-family:'Gill Sans Std';-inkscape-font-specification:'Gill Sans Std, Normal';font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+     id="text109"
+     font-size="32"
+     font-weight="300"
+     x="262.64999"
+     y="263">
+    <tspan
+       style="-inkscape-font-specification:'Gill Sans Std, Normal';font-family:'Gill Sans Std';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:32px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal"
+       id="tspan998">publish</tspan>
+  </text>
+  <path
+     style="fill:#484d4b"
+     inkscape:connector-curvature="0"
+     id="path111"
+     d="m 979.5,415 216.587,-10e-5 v -3 L 979.5,412 Z m 215.087,2.9999 9,-4.5 -9,-4.5 z" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot982"
+     style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+       id="flowRegion984"><rect
+         id="rect986"
+         width="1717.7938"
+         height="790.01917"
+         x="-131.11662"
+         y="-117.73544" /></flowRegion><flowPara
+       id="flowPara988"></flowPara></flowRoot></svg>
